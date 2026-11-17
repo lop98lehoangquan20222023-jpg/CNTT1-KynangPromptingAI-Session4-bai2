@@ -1,7 +1,7 @@
 # Bước 1: Đề xuất 2 Prompt mẫu
 1. Giải pháp 1 (Đơn giản, ngắn gọn):
 ```
-"Hãy phân loại mức độ nghiêm trọng (P1/P2/P3), tìm nguyên nhân và viết email xin lỗi cho danh sách phản hồi khách hàng sau: [Chèn dữ liệu]."
+Hãy phân loại mức độ nghiêm trọng (P1/P2/P3), tìm nguyên nhân và viết email xin lỗi cho danh sách phản hồi khách hàng sau: 
 ```
 
 2. Giải pháp 2 (Chi tiết, cấu trúc hóa và nhiều ràng buộc):
